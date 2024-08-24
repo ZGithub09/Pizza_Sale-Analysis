@@ -6,7 +6,7 @@ The Pizza Sales Project is a data analysis and visualization project aimed at an
 
 ## Project Components
 
-### 1. Data Acquisition
+## Data Acquisition
 
 The project begins with the acquisition of raw sales data. This data may include information such as customer orders, product details, order dates, and transaction amounts. Data can be obtained from various sources, including databases, CSV files, or other data storage systems.
 
