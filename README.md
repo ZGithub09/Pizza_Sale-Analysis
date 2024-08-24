@@ -47,6 +47,6 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ![image](https://github.com/user-attachments/assets/1a617984-ea18-453f-b7e7-afb0af3a93a3)
 
-## Insights and Recommendations
+## Insights
 
 Based on the analysis and visualizations, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
