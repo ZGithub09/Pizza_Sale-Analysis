@@ -43,7 +43,7 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ## Dashboard Overview
 
-![image](https://github.com/user-attachments/assets/42339f51-6e91-492d-a12a-c80960de2d4e)
+![image](https://github.com/user-attachments/assets/6ae4fd63-3309-40b3-a536-ea07ee401ec5)
 
 ![image](https://github.com/user-attachments/assets/a2cf12ce-7bad-44f2-b4d7-1bf93eb11a63)
 
